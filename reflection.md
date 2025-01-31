@@ -68,18 +68,18 @@ topic a little better?
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- TODO
+- I was able to complete this all with the previous exercises, and wave. I double checked with the solutions.
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- TODO
+- I think if I had not done the previous exercises, this would have been a bit more difficult. This week was very easy for me.
 
 3. Was there something that you wish had been explained better?
-- TODO
+- No, everything was explained well.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- TODO
+- Joined with the discussion of looking at WAVE, I think this was a good week.
 
 ## CSS
 
