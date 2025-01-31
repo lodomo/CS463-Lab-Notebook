@@ -4,27 +4,33 @@
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- I used the videos and the solutions for help.
+
+I used the videos and the solutions for help.
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- Very helpful. The tables are something I've always been uncomfortable with and feel a bit better now.
+
+Very helpful. The tables are something I've always been uncomfortable with and feel a bit better now.
 
 3. Was there something that you wish had been explained better?
-- Everything was explained well.
+
+Everything was explained well.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- I think the exercises were good, taking notes throughout the exercises helped me a lot.
 
-### Lists
+I think the exercises were good, taking notes throughout the exercises helped me a lot.
+
+### Notes while I was working:
+
+#### Lists
 
 - `<ul>`: unordered list
 - `<ol>`: ordered list
 - `<li>`: list item
 - If a list is nested, the nested list is inside the `<li>` tag of the parent list.
 
-### Images
+#### Images
 
 - `<figure>`: container for an image
 - `<figcaption>`: caption for an image
@@ -33,7 +39,7 @@ topic a little better?
   - `alt`: alternative text, make sure it's descriptive
   - `width` and `height`: specify the dimensions of the image to prevent layout shifts
 
-### Table
+#### Table
 
 - `<table>`: table tag
   - `<thead>`: table head, contains the title for each column
@@ -45,7 +51,7 @@ topic a little better?
         - colspan: attribute that specifies the number of columns a cell should span
         - rowspan: attribute that specifies the number of rows a cell should span
 
-### Form
+#### Form
 
 - `<form>`: form tag, starts the form.
   - `action`: attribute that links where the form data will be sent
@@ -68,42 +74,48 @@ topic a little better?
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- I was able to complete this all with the previous exercises, and wave. I double checked with the solutions.
+
+I was able to complete this all with the previous exercises, and wave. I double checked with the solutions.
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- I think if I had not done the previous exercises, this would have been a bit more difficult. This week was very easy for me.
+
+I think if I had not done the previous exercises, this would have been a bit more difficult. This week was very easy for me.
 
 3. Was there something that you wish had been explained better?
-- No, everything was explained well.
+
+No, everything was explained well.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- Joined with the discussion of looking at WAVE, I think this was a good week.
+
+Joined with the discussion of looking at WAVE, I think this was a good week.
 
 ## CSS
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- Had to reference the solutions and the powerpoints for Part 1.
-- Part 2 was easy
-- I think I got part 3 right? There was nothing to check it against.
-- Part 4 'solution' was just the original? But I just was going to reference it for the colors. I got it right if the window didnt change size at all.
-- My part 5 solution matches the picture, but has quite a few differences than the posted solution. I assume its because there's multiple ways to do the same thing?
+- Part 1: I had to reference the solutions and the powerpoints.
+- Part 2: Easy.
+- Part 3: References the powerpoints. I think I understand it.
+- Part 4: It works when the window doesn't change sizes. I don't think that's good.
+- Part 5: My solution matches the picture, but there's quite a few differences compared to the solution file. I'd guess because there's multiple ways to do the same thing?
+- Part 6: Referenced notes from lecture, and powerpoints. Double checked with the solution.
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- For part 1, I just felt like "why would anyone do something like this?", but that usually means I'll need it one day.
-- I feel like part 3 needs something more practical to really understand it. 
-- Part 4 seems like there's a better way to size boxes.
+- Part 1, I just felt like "why would anyone do something like this?", but that usually means I'll need it one day.
 - Part 5 playing with different ways to place elements was helpful. I'm interested in playing with this more.
+- Part 6, I liked the challenge of keeping the HTML the same and only changing the CSS. After all the other exercises, this one really came together smoothly.
 
 3. Was there something that you wish had been explained better?
-- Part 3 was pretty vague. I think I understand it, but I'm not entirely sure the purpose of finding XYZ values.
+
+Part 3 and the specificity of CSS. I understand it, but it feels like problems that can be avoided by properly using classes? I'm not sure if that's the right way to think about it.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- TODO
+
+All good so far!
 
 ## Flexbox
 
