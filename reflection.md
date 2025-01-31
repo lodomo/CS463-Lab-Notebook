@@ -2,10 +2,20 @@
 
 ## HTML
 
-These exercises were all pretty straight forward. I had to look up some of the tags
-and attributes but I think with practice I'll get better at remembering them. For
-each section, I'll write down some quick references for myself and any notes I think
-will be handy for future me.
+1. Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+- I used the videos and the solutions for help.
+
+2. How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+- Very helpful. The tables are something I've always been uncomfortable with and feel a bit better now.
+
+3. Was there something that you wish had been explained better?
+- Everything was explained well.
+
+4. Were there other exercises that might have helped you learn this week’s
+topic a little better?
+- I think the exercises were good, taking notes throughout the exercises helped me a lot.
 
 ### Lists
 
@@ -25,9 +35,6 @@ will be handy for future me.
 
 ### Table
 
-Tables are written row-first, column-second. Even checking my code against the code-samples it took me
-a long time to really understand what is going on. I'll definitely need more practice with tables.
-
 - `<table>`: table tag
   - `<thead>`: table head, contains the title for each column
     - `<tr>`: table row, contains the data for each column
@@ -39,9 +46,6 @@ a long time to really understand what is going on. I'll definitely need more pra
         - rowspan: attribute that specifies the number of rows a cell should span
 
 ### Form
-
-Forms are also hard for me to read, I think with practice I'll get better.
-For now, here are some more quick references I'm sure I'll read all term.
 
 - `<form>`: form tag, starts the form.
   - `action`: attribute that links where the form data will be sent
@@ -62,28 +66,121 @@ For now, here are some more quick references I'm sure I'll read all term.
 
 ## Accessibility
 
+1. Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+- TODO
+
+2. How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+- TODO
+
+3. Was there something that you wish had been explained better?
+- TODO
+
+4. Were there other exercises that might have helped you learn this week’s
+topic a little better?
 - TODO
 
 ## CSS
 
+1. Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+- TODO
+
+2. How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+- TODO
+
+3. Was there something that you wish had been explained better?
+- TODO
+
+4. Were there other exercises that might have helped you learn this week’s
+topic a little better?
 - TODO
 
 ## Flexbox
 
+1. Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+- TODO
+
+2. How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+- TODO
+
+3. Was there something that you wish had been explained better?
+- TODO
+
+4. Were there other exercises that might have helped you learn this week’s
+topic a little better?
 - TODO
 
 ## CSS Grid
 
+1. Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+- TODO
+
+2. How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+- TODO
+
+3. Was there something that you wish had been explained better?
+- TODO
+
+4. Were there other exercises that might have helped you learn this week’s
+topic a little better?
 - TODO
 
 ## Bootstrap
 
+1. Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+- TODO
+
+2. How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+- TODO
+
+3. Was there something that you wish had been explained better?
+- TODO
+
+4. Were there other exercises that might have helped you learn this week’s
+topic a little better?
 - TODO
 
 ## Javascript
 
+1. Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+- TODO
+
+2. How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+- TODO
+
+3. Was there something that you wish had been explained better?
+- TODO
+
+4. Were there other exercises that might have helped you learn this week’s
+topic a little better?
 - TODO
 
 ## JQuery
+1. Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+- TODO
+
+2. How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+- TODO
+
+3. Was there something that you wish had been explained better?
+- TODO
+
+4. Were there other exercises that might have helped you learn this week’s
+topic a little better?
+- TODO
+
 
 - TODO
