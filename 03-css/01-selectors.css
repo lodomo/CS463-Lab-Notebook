@@ -6,16 +6,53 @@
   --royalblue: #4169e1;
   --teal: #008080;
   --violet: #9400d3;
+  --green: #008000;
+}
+
+body {
+  font-family: "Lato", Arial, sans-serif;
 }
 
 /* Use attribute selectors for the first part of the exercise */
 
-li[class] {
-  color: var(--red);
+li[class~='dog'] {
+  color: var(--magenta);
 }
+
+li[id='cat'] {
+  color: var(--teal);
+}
+
+li[class~='parrot'] {
+  color: var(--green);
+}
+
+li[class~='donkey'] {
+  color: var(--royalblue);
+}
+
+li[class~='hedgehog'] {
+  color: var(--magenta);
+}
+
+li[class~='cat'] {
+  color: var(--royalblue);
+}
+
 
 /* Use descendant, child, and sibling selectors for the second part */
 
+/* By default the list items are green */
 section li {
   color: var(--green);
+}
+
+/* Siblings of first are magenta (but not first) */
+.first ~ li {
+  color: var(--magenta);
+}
+
+/* The element sibling after second is blue */
+.second + li {
+  color: var(--royalblue);
 }

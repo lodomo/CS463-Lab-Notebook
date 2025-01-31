@@ -1,4 +1,12 @@
+body {
+  font-family: "Lato", Arial, sans-serif;
+}
+
 .container {
   width: 600px;
   margin: 40px auto;
+}
+
+.paragraph::first-letter {
+  font-size: 2em;
 }

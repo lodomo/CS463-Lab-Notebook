@@ -85,14 +85,21 @@ topic a little better?
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- TODO
+- Had to reference the solutions and the powerpoints for Part 1.
+- Part 2 was easy
+- I think I got part 3 right? There was nothing to check it against.
+- Part 4 'solution' was just the original? But I just was going to reference it for the colors. I got it right if the window didnt change size at all.
+- My part 5 solution matches the picture, but has quite a few differences than the posted solution. I assume its because there's multiple ways to do the same thing?
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- TODO
+- For part 1, I just felt like "why would anyone do something like this?", but that usually means I'll need it one day.
+- I feel like part 3 needs something more practical to really understand it. 
+- Part 4 seems like there's a better way to size boxes.
+- Part 5 playing with different ways to place elements was helpful. I'm interested in playing with this more.
 
 3. Was there something that you wish had been explained better?
-- TODO
+- Part 3 was pretty vague. I think I understand it, but I'm not entirely sure the purpose of finding XYZ values.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
