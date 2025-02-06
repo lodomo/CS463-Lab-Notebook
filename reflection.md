@@ -121,18 +121,18 @@ All good so far!
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- TODO
+- I got until the 5th one, and then I had to look at solutions. I assumed there was a math trick going on. It was just brute force...
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- TODO
+- All were good examples, I'll be keeping this as reference for a long time
 
 3. Was there something that you wish had been explained better?
-- TODO
+- No
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- TODO
+- Honestly, that flexbox froggy game from lecture is going to be something I play with to get a better understanding.
 
 ## CSS Grid
 
