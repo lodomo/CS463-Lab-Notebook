@@ -1,23 +1,66 @@
 .flex-container {
   background-color: rgb(190, 190, 231);
+  width: 50%;
 }
 
 /* Flex Container 1 */
-
-/* Flex Container 2 */
-
-/* Flex Container 3 */
-
-/* use height: 400px; on the container */
-
-/* Flex Container 4 */
-
-/* Flex Container 5 */
-
-/* Flex Container 6 */
-
-.flex-container-6 .flex-item {
-  width: 400px;
+/* In order, in a row, centered, wrap down also aligned with other objects */
+.flex-container-1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-/* use height: 300px; on the container */
+/* Flex Container 2 */
+/* Reverse order, in a row, justified to the right, wrap also to the right */
+.flex-container-2 {
+  display: flex;
+  flex-flow: row-reverse wrap;
+}
+
+/* Flex Container 3 */
+/* Reverse Order, in a column, aligned to the right, wrap to the right */
+/* Height restricted to show column wrapping */
+.flex-container-3 {
+  height: 400px;
+  display: flex;
+  flex-flow: column-reverse wrap;
+  align-items: flex-end;
+}
+
+/* Flex Container 4 */
+/* In order, in a row, wrap up centered aligned with row */
+.flex-container-4 {
+  display: flex;
+  flex-flow: row wrap-reverse;
+  justify-content: space-evenly;
+}
+
+/* Flex Container 5 */
+/* In order, in a row, each element is assigned a different height, still centered vertically */
+.flex-container-5 {
+  display: flex;
+  align-items: center;
+}
+
+.flex-container-5 .item1,
+.flex-container-5 .item3,
+.flex-container-5 .item6 {
+  height: 150px;
+}
+
+.flex-container-5 .item2,
+.flex-container-5 .item8 {
+  height: 250px;
+}
+/* Flex Container 6 */
+/* Grid of cells in columns in order top-down, left-right */
+.flex-container-6 .flex-item {
+  width: 30%;
+}
+
+.flex-container-6 {
+  height: 300px;
+  display: flex;
+  flex-flow: column wrap;
+}
