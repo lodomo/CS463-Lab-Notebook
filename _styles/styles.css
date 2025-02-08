@@ -1,3 +1,11 @@
+/* 
+* Refused to apply style from 'http://127.0.0.1:8080/_styles/styles.css' 
+* because its MIME type ('text/html') is not a supported stylesheet MIME type, 
+* and strict MIME checking is enabled. 
+* 
+* Copied this over because I got this error.
+* */
+
 * {
   box-sizing: border-box;
 }
@@ -25,7 +33,7 @@
 }
 
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 1.2em;
   color: var(--gray1);
 }

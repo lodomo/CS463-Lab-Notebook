@@ -138,18 +138,18 @@ topic a little better?
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- TODO
+- Heavily relied on the solutions for help. My brain is having a hard time with this one.
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- TODO
+- The second part with the grid-template-areas is very cool. I still had to look at the solutions, but I'm glad to have this in my pocket for web dev.
 
 3. Was there something that you wish had been explained better?
-- TODO
+- I honestly don't know. Something about this week didn't click for me. I hope more time with it will help.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- TODO
+- I don't know.
 
 ## Bootstrap
 
