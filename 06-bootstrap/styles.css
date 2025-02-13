@@ -21,3 +21,13 @@ form > * {
 .box {
   height: 160px;
 }
+
+.card-header,
+.modal-title {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.modal-body {
+  font-size: 0.75em;
+}

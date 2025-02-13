@@ -155,18 +155,22 @@ topic a little better?
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- TODO
+- Part 1: Looked at the solutions because the slides didn't cover cards, Heavily relied on the solution on this one.
+I compared the solution to the bootstrap documentation to understand the classes better. Definitely need to play with this more.
+- Part 2, and 3: Very intuitive after the lecture. I didn't need to look at the solutions. Really really cool stuff.
+- Part 4: Heavily relied on the solution. Added some of my own CSS. Used the solution as reference of what to look into for the documentation.
+
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- TODO
+- I think the grid was my favorite. I hate how modals are used on the web, but I'm glad to know how to make them now.
 
 3. Was there something that you wish had been explained better?
-- TODO
+- I think understanding clearly that you don't "install" bootstrap. I was confused about that for a bit. I missed part of one of the lectures so maybe it's just me.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- TODO
+- I think this was a good little intro to bootstrap, definitely way different than anything else I've used before.
 
 ## Javascript
 
