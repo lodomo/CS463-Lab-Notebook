@@ -1,0 +1,10 @@
+.books {
+  padding-left: 0px;
+}
+
+.book {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}

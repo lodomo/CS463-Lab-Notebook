@@ -176,18 +176,19 @@ topic a little better?
 
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- TODO
+- "Fetch" I used examples from mozilla, and the solutions. I understood what I was doing the whole time just needed to reference the syntax.
+
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- TODO
+- Genuinely wil keep these exercises as reference while I'm learning JS/TS. I think all the exercises were helpful.
 
 3. Was there something that you wish had been explained better?
-- TODO
+- I noticed your solution uses "then" and mozilla recommends "await" for fetch. Maybe I missed it in the lecture? I'm not sure.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- TODO
+- Great week! I really felt like I learned a lot 
 
 ## JQuery
 1. Were you able to complete the exercises on your own or did you use the
