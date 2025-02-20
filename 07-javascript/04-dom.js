@@ -5,11 +5,11 @@
 // add an event listener on the target element
 // callback function to handle event
 
-const copyButton = document.getElementById('copy');
-const userInput1 = document.getElementById('userInput1');
-const output = document.getElementById('output1');
+const copyButton = document.getElementById("copy");
+const userInput1 = document.getElementById("userInput1");
+const output = document.getElementById("output1");
 
-copyButton.addEventListener('click', function() {
+copyButton.addEventListener("click", function() {
   output.textContent = userInput1.value;
 });
 
@@ -19,9 +19,9 @@ copyButton.addEventListener('click', function() {
 // add an event listener on the target element
 // callback function to handle event
 
-const userInput2 = document.getElementById('userInput2');
-const output2 = document.getElementById('output2');
+const userInput2 = document.getElementById("userInput2");
+const output2 = document.getElementById("output2");
 
-userInput2.addEventListener('input', function() {
+userInput2.addEventListener("input", function() {
   output2.textContent = userInput2.value;
 });
