@@ -193,18 +193,17 @@ topic a little better?
 ## JQuery
 1. Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?
-- TODO
+- Part 1: I used a mix of the powerpoints and web sources to understand the syntax. I didn't look at the solution.
+- Part 2: I had to dive into different sources to understand the syntax to get css classes added. I didn't look at the solution.
 
 2. How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?
-- TODO
+- Pretty cool rewriting something we already did in another framework. I think the exercises were helpful.
 
 3. Was there something that you wish had been explained better?
-- TODO
+- I still fully understand how $ is just allowed in my script. I don't think I fully understand Javascript and how things connect to eachother.
+I'm used to explicit importing and exporting in other languages.
 
 4. Were there other exercises that might have helped you learn this week’s
 topic a little better?
-- TODO
-
-
-- TODO
+- I think the exercises were good.
